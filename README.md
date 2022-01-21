@@ -6,12 +6,12 @@ This is Simple Example Of Copy Total List Data In One Click
 2. add string variable name is **result**
 
 
-[String result = "";
+```String result = "";
 int n = 0;
 for (String str : listdata) {
   result += "" + (n++) + ". " + str + "\n";
 }
-// created by virkato/androidbulb
-]
+// created by virkato/androidbulb```
+
 
  
